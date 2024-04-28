@@ -1,4 +1,5 @@
-![hospitality-insights-powerbi-1](https://github.com/AmishBaskaran/hospitality-insights-powerbi/assets/167852107/e8d53171-1c3b-408a-8dac-13db4d6957cd)# Hospitality Insights Power BI Report
+![hospitality-insights-powerbi-1](https://github.com/AmishBaskaran/hospitality-insights-powerbi/assets/167852107/e8d53171-1c3b-408a-8dac-13db4d6957cd)
+# Hospitality Insights Power BI Report
 
 ## Description
 
