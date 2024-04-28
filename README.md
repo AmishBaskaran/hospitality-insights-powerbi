@@ -1,4 +1,4 @@
-![hospitality-insights-powerbi-1](https://github.com/AmishBaskaran/hospitality-insights-powerbi/assets/167852107/e8d53171-1c3b-408a-8dac-13db4d6957cd)
+![hospitality-insights-powerbi-1](https://github.com/AmishBaskaran/hospitality-insights-powerbi/assets/167852107/08e10077-4076-4e4e-b51a-3153b404e947)
 # Hospitality Insights Power BI Report
 
 ## Description
@@ -29,7 +29,8 @@ This Power BI report can be viewed using the Power BI Desktop application or upl
 
 ## Screenshot
 
-![hospitality-insights-powerbi-1](https://github.com/AmishBaskaran/hospitality-insights-powerbi/assets/167852107/0a7c9be2-87f1-4b4e-a42f-7c2473749ed5)
+![hospitality-insights-powerbi-1](https://github.com/AmishBaskaran/hospitality-insights-powerbi/assets/167852107/08e10077-4076-4e4e-b51a-3153b404e947)
+
 
 
 ## Contributing
